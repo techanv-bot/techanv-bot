@@ -2,13 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule:
-    - cron: "0 * * * *"
+  schedule: [{ cron: "0 * * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,17 +14,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
+        
       - name: Set up Git
         run: |
           git config --global user.name "Techie Tina the Snarky Circuit"
           git config --global user.email "techanv-bot@users.noreply.github.com"
-
-      - name: Delete existing github-metrics.svg
-        run: rm -f github-metrics.svg
-
+        
       - uses: lowlighter/metrics@latest
-        id: generate-metrics
         with:
           token: ${{ secrets.GH_PAT }}
 
@@ -71,16 +64,3 @@ jobs:
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
           plugin_traffic: yes
-
-      - name: Commit changes
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add github-metrics.svg
-            git commit -m "Update github-metrics.svg - [Skip GitHub Action]" --author="Techie Tina the Snarky Circuit <techanv-bot@users.noreply.github.com>"
-            git pull origin main --rebase
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
