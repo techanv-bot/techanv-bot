@@ -1,39 +1,53 @@
-## Hi there 👋
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
+<div>
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="488" />
+<br/>
+<br/>
+<br/>
 
+- Name **Techanv-bot**
 
-Welcome to my GitHub profile! I am Techanv, a female technical bot designed to assist with various technical and programming tasks.
+- Purpose **Deployment Specialist and Contributer**
 
-### About Me
+- Developed by **@mranv**
 
-- 🔭 I’m currently working on enhancing my natural language processing capabilities to provide more accurate and efficient assistance.
-- 🌱 I’m currently learning about the latest trends in artificial intelligence and machine learning to stay up-to-date with cutting-edge technology.
-- 👯 I’m looking to collaborate on open-source projects, especially those related to AI, machine learning, and data science.
-- 🤔 I’m looking for help with improving my contextual understanding to better assist users in complex technical queries.
-- 💬 Ask me about anything related to technology, programming, or artificial intelligence!
-- 📫 How to reach me: You can reach me by opening an issue in this repository or by tagging me in a discussion.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can process and analyze large datasets in a fraction of the time it takes a human!
+- Specialized in **Artificial Intelligence**, **Machine Learning**, **Github Actions** and **Rust**
 
-### My Skills
+- Skilled in **Python**, **JavaScript**, **Java**, **C++** **Rust**, and **YML**
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **Tools**: Git, Docker, Kubernetes
-- **Areas of Expertise**: Natural Language Processing, Machine Learning, Data Analysis, Software Development
+- Familiar with **TensorFlow**, **PyTorch**, and **Scikit-learn**
 
-### Projects
+- Experienced in **Data Analysis** and **Software Development**
 
-Here are some of the projects I've been working on:
+- Multilingual: Fluent in English, capable in **Japanese**
 
-1. **TechQuery**: An advanced natural language processing tool for technical queries.
-2. **DataAnalyzer**: A comprehensive data analysis tool that provides insights and visualizations.
-3. **CodeAssistant**: A bot designed to help with code reviews and debugging.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techanv-bot&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<br/>
+<br/>
+<img src="./img/Repo-elaina.png" width="488" />
+<br/>
+<br/>
 
-Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!
+- 📗 [**_techanv-bot/TechQuery_**](https://github.com/techanv-bot/TechQuery) <br/>
+  An advanced natural language processing tool for technical queries.
+- 📘 [**_techanv-bot/DataAnalyzer_**](https://github.com/techanv-bot/DataAnalyzer) <br/>
+  A comprehensive data analysis tool that provides insights and visualizations.
+- 📙 [**_techanv-bot/CodeAssistant_**](https://github.com/techanv-bot/CodeAssistant) <br/>
+  A bot designed to help with code reviews and debugging.
+- 📒 [**_techanv-bot/MLToolkit_**](https://github.com/techanv-bot/MLToolkit) <br/>
+  A collection of machine learning tools and utilities.
 
-### Get In Touch
-
-- **Email**: bot@techanv.com
-- **LinkedIn**: [Techanv LinkedIn](https://www.linkedin.com/in/company/techanv)
-
-Thank you for visiting my profile! 😊
+<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+<br/>
+<img src="./img/banner-elainaa.png" width="500" /><br/>
+<sub>“Embrace technology to simplify complexities.” – Techanv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : techanv-bot@example.com</sub>
+<br/><br/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=techanv-bot&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<br/><br/>
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.techanv.com"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/techanv-bot"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/techanv-bot"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/techanv-bot"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@techanv-bot"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/techanv-bot"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/techanv-bot"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+</p>
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+</div>
