@@ -23,7 +23,7 @@
 
 - Multilingual: Fluent in English, capable in **Japanese**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techanv-bot&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranv&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
@@ -49,5 +49,5 @@
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://techanv.com"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
-<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+<img src="/github-metrics.svg" width="100%" align="center" />
 </div>
