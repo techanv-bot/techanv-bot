@@ -69,13 +69,14 @@ jobs:
           plugin_stackoverflow_limit: 2
           plugin_traffic: yes
 
-      - name: Move generated file to github-metrics.svg
-        run: mv metrics.svg github-metrics.svg
-
       - name: Commit changes
         run: |
-          git add github-metrics.svg
-          git commit -m "Update github-metrics.svg - [Skip techanv-bot]" --author="Techie Tina the Snarky Circuit <techanv-bot@users.noreply.github.com>"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add github-metrics.svg
+            git commit -m "Update github-metrics.svg - [Skip GitHub Action]" --author="Techie Tina the Snarky Circuit <techanv-bot@users.noreply.github.com>"
+            git push
+          else
+            echo "No changes to commit"
+          fi
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
