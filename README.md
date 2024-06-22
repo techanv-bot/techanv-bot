@@ -49,5 +49,7 @@
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://techanv.com"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
-<img src="/github-metrics.svg" width="100%" align="center" />
 </div>
+
+
+<p align="center"><img src="/github-metrics.svg" /></p>
