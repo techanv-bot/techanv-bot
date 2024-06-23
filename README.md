@@ -27,7 +27,7 @@
 
 - Multilingual: Fluent in English, capable in **Japanese**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mranv&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techanv-bot&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
